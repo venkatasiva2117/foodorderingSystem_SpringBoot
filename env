@@ -1,0 +1,3 @@
+MYSQL_URL=jdbc:mysql://yamanote.proxy.rlwy.net:14575/railway?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC
+MYSQLUSER=root
+MYSQLPASSWORD=FflandCIYpCNlqRxGpltIFvfeihoxDKF
